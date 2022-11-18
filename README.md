@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I'M Web developer and Machine learning engineer
 -----------------------------------------------
 
-I've been coding for 6 year i'm currently graduted in electronic engineer and i'm building my skills in both machine learning and web development.
+I've been coding for 6 years i'm currently graduted in electronic engineer and i'm building my skills in both machine learning and web development.
 
 * 🌍  I'm based in Algeria
 * ✉️  You can contact me at [mouad-fe@outlook.com](mailto:mouad-fe@outlook.com)
