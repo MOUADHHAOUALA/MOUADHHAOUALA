@@ -8,7 +8,7 @@ I've been coding for 6 years i'm currently graduted in electronic engineer and i
 
 * 🌍  I'm based in Algeria
 * ✉️  You can contact me at [mouad-fe@outlook.com](mailto:mouad-fe@outlook.com)
-* 🧠  I'm learning graphql , django, next.js, javascript,reinforcement learning
+* 🧠  I'm learning graphql, django, next.js, javascript, reinforcement learning
 * 🤝  I'm open to collaborating on web application and Deep learning porjects
 * ⚡  I love playing video games.
 
