@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mouadh Haouala
 ======================================================================================================================================
 
-I'M Web developer and Machine learning engineer
+I'M Full stack web developer and Machine learning engineer
 -----------------------------------------------
 
 I've been coding for 3 years i'm currently graduted in electronic engineer and i'm building my skills in both machine learning and web development.
