@@ -10,7 +10,7 @@ With over 3 years of experience in designing and implementing enterprise-grade s
 * ✉️  Contact me at [mouad-fe@outlook.com](mailto:mouad-fe@outlook.com)
 * 🚀  Currently building enterprise solutions with Next.js and NestJS
 * 🧠  Mastering advanced TypeScript patterns and cloud-native architectures
-* 🤝  Open to collaborations on complex web applications and AI projects
+* 🤝  Open to collaborations on complex web applications
 * 🎮  Passionate about game development and technical innovation
 
 ### Tech Stack Excellence
