@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 💻 Full Stack Engineer & Solution Architect 
 ---------------------------------------------------------------------------
 
-With over 3 years of experience in designing and implementing enterprise-grade solutions, I specialize in building robust full-stack applications and scalable AI systems. My expertise spans from system architecture to production deployment, with a focus on maintainable and performant solutions.
+With over 3 years of experience in designing and implementing enterprise-grade solutions, I specialize in building robust full-stack applications My expertise spans from system architecture to production deployment, with a focus on maintainable and performant solutions.
 
 * 🌍  Based in Algeria
 * ✉️  Contact me at [mouad-fe@outlook.com](mailto:mouad-fe@outlook.com)
